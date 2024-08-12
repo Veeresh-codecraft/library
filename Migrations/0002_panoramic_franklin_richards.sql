@@ -1,0 +1,1 @@
+ALTER TABLE `Users` RENAME COLUMN `dob` TO `DOB`;

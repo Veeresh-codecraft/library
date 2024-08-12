@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1721977466956,
+      "tag": "0000_late_susan_delgado",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1721977721201,
+      "tag": "0001_eminent_red_shift",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1721978793589,
+      "tag": "0002_panoramic_franklin_richards",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1723468686489,
+      "tag": "0003_confused_carlie_cooper",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1723473321373,
+      "tag": "0004_lowly_colleen_wing",
+      "breakpoints": true
+    }
+  ]
+}
